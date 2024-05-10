@@ -1,4 +1,4 @@
-# Лабораторная работа №1 «Исследование Cloud Run»
+# Лабораторная работа №2 «Исследование Cloud Run»
 
 > [!NOTE]
 > University: [ITMO University](https://itmo.ru/ru/)</br>
